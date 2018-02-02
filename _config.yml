@@ -1,24 +1,26 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
-baseurl:
+title: Mort's Minions
+url: "https://mortsminions.com"
+baseurl: /
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
-author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+description: Game website for Mort's Minions iOS Game.
+author: 
+  name: Dan Bellinski
+  email: dan@base11studios.com
+  twitter: itsdannyflash
 social:
-  name: Hydra Template
+  name: Mort's Minions
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
+    - https://www.facebook.com/mortsminions/
+    - https://twitter.com/MortsMinions
+    - https://www.youtube.com/channel/UCNu6h9EOPN_60Tn0DPlslqQ
 
 # -----
 # Build
