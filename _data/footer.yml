@@ -2,11 +2,7 @@
   - name: Home
     link: /
   - name: Contact
-    link: mailto:dan@mortsminions.com 
-  - name: Blog
-    link: /blog/
-  - name: Game
-    link: /game/
+    link: mailto:dan@base11studios.com 
 - links:
   - name: Shop
     link: https://paom.com/designer/mortsminions
