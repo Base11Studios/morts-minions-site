@@ -1,0 +1,12 @@
+---
+title: Mort's Media
+description: Get media including screenshots, artwork, and videos from the iOS Retro RPG Adventure Mort’s Minions. For an easily downloadable content set, see the Press Kit below.
+---
+<ul class="media">
+	{% for media in site.media %}
+		<li>
+			<div class="square-image"><img src="{% include relative-src.html src=media.image_path %}" alt="{{ media.name }}"/></div>
+			<div class="name">{{ media.name }}</div>
+		</li>
+	{% endfor %}
+</ul>

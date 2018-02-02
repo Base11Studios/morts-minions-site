@@ -1,0 +1,12 @@
+- name: Blog
+  link: /blog/
+  new_window: false
+  highlight: false
+- name: Shop
+  link: https://paom.com/designer/mortsminions
+  highlight: false
+  new_window: true
+- name: Forum
+  link: http://forums.toucharcade.com/showthread.php?t=294488
+  highlight: false
+  new_window: true
